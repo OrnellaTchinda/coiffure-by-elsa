@@ -1,6 +1,6 @@
 # Coiffure By Elsa: <a href="https://codepen.io/julia-codes/pen/zYWodgZ" target="_blank">Check It Out</a>
 
-<a href="https://codepen.io/julia-codes/pen/zYWodgZ" target="_blank"><img src="https://github.com/OrnellaTchinda/Doggos-and-Puppers/blob/8f77f20639663575dedec242370993d019fb221c/css/images/doggosAndPuppers.gif" /></a>
+<a href="https://codepen.io/julia-codes/pen/zYWodgZ" target="_blank"><img src="https://github.com/OrnellaTchinda/coiffure-by-elsa/blob/8d3937ba5fb70f3fe8dc90aa60c1786b36946e0b/coiffure-video.gif" /></a>
 
 ### This responsive website for a hairstylist who loves her job.
 
@@ -12,20 +12,3 @@ My learning was focused on making a website responsive and to respond to the cli
 
 When I improve this project, I would add a more cutomized appointment section to show the client's availability.
 
-
-
-
-
-Coiffure by Elsa
-
-Hair stylist website
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	
